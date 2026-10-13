@@ -1,10 +1,12 @@
-# Eye of Horus
+# Eye of Horus&nbsp; 𓂀
 
-In Egyptian myth, the Eye of Horus is the all-seeing eye that watched over the world and protected it. Eye of Horus, the project, aims to do the same for today's world. It is an interactive 3D globe that shows what is happening on Earth right now: earthquakes, wildfires, floods, cyclones, and volcanoes, alongside news on politics, conflict, technology, finance, and society.
+The Eye of Horus is an interactive 3D globe that lets you see significant events that are happening across the world right now: earthquakes, wildfires, floods, cyclones, and volcanoes, alongside news on politics, conflict, technology, finance, and society, all in one place.
 
-Each event sits where it happened. Selecting one opens a briefing with its source link. For natural hazards, the briefing also shows a satellite view of the area and an estimate of how many people live nearby. Gemini links related stories, for example a news article that covers a specific earthquake. Readers can follow a story across sources without leaving the map.
+Each event sits where it happened. Selecting one opens a briefing with its source link. For natural hazards, the briefing also shows a satellite view of the area and an human impact estimate based on how many people live nearby. Gemini links related stories, for example a news article that covers a specific earthquake. Readers can follow a story across sources without leaving the map.
 
-The project was built for StormHacks 2026 and is aimed at disaster awareness and relief. Its satellite features use only open Earth observation data that anyone can download and read with free Python libraries.
+The project was built for StormHacks 2026 (https://devpost.com/software/eyeofhorus?ref_content=my-projects-tab&ref_feature=my_projects)
+
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/2b07f1a6-2892-4f4c-bb59-7dff0fd4026e" />
 
 ## Features
 
