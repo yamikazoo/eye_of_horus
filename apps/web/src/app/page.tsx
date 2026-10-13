@@ -143,7 +143,6 @@ export default function Home() {
   const shown = useMemo(() => explore && selectedCountries.length
     ? restrictVisuals(visuals, new Set(selectedCountries.flatMap(country => country.events.map(event => event.id))))
     : visuals, [explore, selectedCountries, visuals]);
-<<<<<<< HEAD
   return <main className="earth-page" data-tab={tab} aria-label={PRODUCT_NAME}>
     {explore && <LayerRail filters={filters} onChange={update} reflowKey={[filters, selectedCountries]} openRequest={countriesPanelRequest} closeRequest={settingsCloseRequest} panels={[
       { id: "countries", label: "Selected countries", badge: selectedCountries.length, active: selectedCountries.length > 0, content: <CountryHeadlines countries={selectedCountries}
